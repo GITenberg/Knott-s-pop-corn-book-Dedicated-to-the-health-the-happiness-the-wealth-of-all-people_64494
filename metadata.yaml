@@ -7,7 +7,12 @@ contributor:
     birthdate: 1880
     gutenberg_agent_id: '52931'
     url: http://www.gutenberg.org/2009/agents/52931
+covers:
+- cover_type: archival
+  image_path: 64494-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64494#Knott-s-pop-corn-book-Dedicated-to-the-health-the-happiness-the-wealth-of-all-people
 gutenberg_issued: '2021-02-08'
 gutenberg_type: Text
 identifiers:
